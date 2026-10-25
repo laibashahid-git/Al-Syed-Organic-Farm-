@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Al Syed Organic Farm",
+  "description": "Authentic A2 Bilona Desi Ghee, Kashmiri Saffron, and stone-ground organic staples harvested direct from our soil in Punjab, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
